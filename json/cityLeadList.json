@@ -1,0 +1,84 @@
+{
+  "code": "0",
+  "msg": "succ",
+  "entry": {
+    "data": [
+      {
+        "city": "阿拉善盟",
+        "city_en": "aa",
+        "city_leads_num": "1",
+        "leads_num": "0",
+        "order_num": "0"
+      },
+      {
+        "city": "阿坝",
+        "city_en": "ab",
+        "city_leads_num": "562",
+        "leads_num": "0",
+        "order_num": "24"
+      },
+      {
+        "city": "聊城",
+        "city_en": "ac",
+        "city_leads_num": "877",
+        "leads_num": "0",
+        "order_num": "0"
+      },
+      {
+        "city": "安福",
+        "city_en": "af",
+        "city_leads_num": "0",
+        "leads_num": "0",
+        "order_num": "0"
+      },
+      {
+        "city": "金昌",
+        "city_en": "ag",
+        "city_leads_num": "2",
+        "leads_num": "0",
+        "order_num": "0"
+      },
+      {
+        "city": "安庆",
+        "city_en": "ai",
+        "city_leads_num": "168",
+        "leads_num": "587",
+        "order_num": "6"
+      },
+      {
+        "city": "宝鸡",
+        "city_en": "aj",
+        "city_leads_num": "686",
+        "leads_num": "0",
+        "order_num": "1"
+      },
+      {
+        "city": "安康",
+        "city_en": "ak",
+        "city_leads_num": "3",
+        "leads_num": "0",
+        "order_num": "0"
+      },
+      {
+        "city": "阿里",
+        "city_en": "al",
+        "city_leads_num": "1",
+        "leads_num": "0",
+        "order_num": "0"
+      },
+      {
+        "city": "三明",
+        "city_en": "am",
+        "city_leads_num": "28",
+        "leads_num": "0",
+        "order_num": "1"
+      }
+    ],
+    "page_info": {
+      "page": 1,
+      "page_size": 10,
+      "page_total": 39,
+      "count": 390
+    }
+  }
+}
