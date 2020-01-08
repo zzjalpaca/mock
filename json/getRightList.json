@@ -1,0 +1,131 @@
+{
+  "code": "0",
+  "msg": "succ",
+  "entry": [
+    {
+      "id": "2",
+      "name_cn": "数据资产",
+      "name_en": "asset",
+      "child_list": [
+        {
+          "id": "150",
+          "name_cn": "数据导入",
+          "name_en": "import",
+          "child_list": [
+            {
+              "id": "169",
+              "name_cn": "数据导入",
+              "name_en": "index",
+              "url_complete": "asset/import/index"
+            },
+            {
+              "id": "175",
+              "name_cn": "计划回流数据",
+              "name_en": "list_series",
+              "url_complete": "asset/import/list_series"
+            },
+            {
+              "id": "176",
+              "name_cn": "合同回流数据",
+              "name_en": "list_contract",
+              "url_complete": "asset/import/list_contract"
+            },
+            {
+              "id": "177",
+              "name_cn": "未关联数据",
+              "name_en": "list_no_relation",
+              "url_complete": "asset/import/list_no_relation"
+            }
+          ]
+        },
+        {
+          "id": "170",
+          "name_cn": "线索管理",
+          "name_en": "leads",
+          "child_list": [
+            {
+              "id": "171",
+              "name_cn": "广告线索明细",
+              "name_en": "detail",
+              "url_complete": "asset/leads/detail"
+            },
+            {
+              "id": "172",
+              "name_cn": "订单线索总览",
+              "name_en": "order_leads",
+              "url_complete": "asset/leads/order_leads"
+            },
+            {
+              "id": "173",
+              "name_cn": "楼盘线索管理",
+              "name_en": "house_leads",
+              "url_complete": "asset/leads/house_leads"
+            },
+            {
+              "id": "174",
+              "name_cn": "城市线索管理",
+              "name_en": "city_leads",
+              "url_complete": "asset/leads/city_leads"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name_cn": "数据洞察",
+      "name_en": "insight",
+      "child_list": [
+        {
+          "id": "179",
+          "name_cn": "广告数据报表",
+          "name_en": "advert_data",
+          "child_list": [
+            {
+              "id": "180",
+              "name_cn": "站外广告投放效果分析",
+              "name_en": "effect",
+              "url_complete": "insight/advert_data/effect"
+            },
+            {
+              "id": "181",
+              "name_cn": "站外广告城市利润分析",
+              "name_en": "city",
+              "url_complete": "insight/advert_data/city"
+            },
+            {
+              "id": "182",
+              "name_cn": "城市投放平台分析",
+              "name_en": "consume",
+              "url_complete": "insight/advert_data/consume"
+            },
+            {
+              "id": "183",
+              "name_cn": "站内广告投放效果分析",
+              "name_en": "effect_inner",
+              "url_complete": "insight/advert_data/effect_inner"
+            },
+            {
+              "id": "252",
+              "name_cn": "全量站外投放数据统计",
+              "name_en": "plat_consume",
+              "url_complete": "insight/advert_data/plat_consume"
+            },
+            {
+              "id": "256",
+              "name_cn": "站外消耗未关联合同统计",
+              "name_en": "no_relation",
+              "url_complete": "insight/advert_data/no_relation"
+            },
+            {
+              "id": "257",
+              "name_cn": "站外产品待投放统计",
+              "name_en": "no_data",
+              "url_complete": "insight/advert_data/no_data"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
